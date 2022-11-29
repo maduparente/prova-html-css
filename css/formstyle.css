@@ -1,0 +1,91 @@
+body {
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+
+}
+
+h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 150%;
+}
+
+p {
+    text-align: center;
+    font-size: 150%;
+
+}
+
+form#escolha {
+    padding-bottom: 30px;
+}
+
+form#escrita {
+
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+label{
+    text-align: right;
+    font-size:15px;
+    font: weight 300px;
+    white-space: nowrap
+    
+     
+}
+
+input{
+    margin: 5px;
+}
+
+input#message{
+    padding: 70px;
+}
+
+input#fname, #lname, #email, #user, #password {
+    padding: 8px;
+    
+}
+
+td#midias {
+    padding-left: 650px;
+    font-weight: bold;
+}
+
+div {
+    background-color: rgb(187, 187, 187);
+    width:350px;
+    height:auto;
+    margin:50px auto 0;
+    padding:50px;
+    border-radius:40px 40px 0 0
+    
+}
+
+div#escolha {
+    background-color: transparent;
+    padding: 0px
+}
+
+footer{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.footer {
+    display: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+td#abouttext {
+    padding-left: 250px;
+    padding-right: 500px
+}
+
+td#imageslink{
+    padding-left: 600px;
+
+}
